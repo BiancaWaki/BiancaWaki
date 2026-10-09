@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm developing an app to help students with Programming Algorithms at the Brazilian university UFGD. 
-- Analyzing and applying methods using AI.
+- Analyzing and applying methods using AI. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-Feel free to contact me (●'◡'●)
+Feel free to contact me, I enjoy connecting with different people (●'◡'●)
 
 <a href="https://linkedin.com/in/bianca-waki-7266b91a6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bianca%20Waki-informational"></a>
 <a href="mailto:biancawaki000@gmail.com"><img src="https://img.shields.io/badge/Email-biancawaki000%40gmail.com-orange"></a>
